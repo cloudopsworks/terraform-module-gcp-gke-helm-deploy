@@ -6,6 +6,7 @@
 #       WebSite: https://cloudops.works
 #     Distributed Under Apache v2.0 License
 #
+
 # Establish this is a HUB or spoke configuration
 variable "is_hub" {
   description = "Is this a hub or spoke configuration?"
